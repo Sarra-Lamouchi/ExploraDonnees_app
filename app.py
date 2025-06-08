@@ -978,7 +978,8 @@ def update_page(pathname, stored_data):  # Acceptation de 2 arguments
     if pathname == '/summary':
         if stored_data is None or not stored_data:
             return html.Div(
-            f"⚠️ {"Aucune donnée disponible. Veuillez télécharger un fichier."}",
+            "⚠️ Aucune donnée disponible. Veuillez télécharger un fichier.",
+
             style={
                 'fontSize': '24px',  # Taille augmentée
                 'color': '#721c24',  # Texte rouge foncé
