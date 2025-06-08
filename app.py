@@ -3748,5 +3748,5 @@ def update_conversion_data(timestamp):
 if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 8080))
-    app.run_server(debug=False, host="0.0.0.0", port=port)
+    app.run(debug=False, host="0.0.0.0", port=port)
 
