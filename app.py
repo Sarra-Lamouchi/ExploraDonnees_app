@@ -3725,11 +3725,8 @@ def export_to_txt(n_clicks, notes_content, filename):
             f"Erreur lors de la génération du fichier TXT : {str(e)}"
         )
     
-# =============================================
-# Initialisation de l'Application
-# =============================================
-if __name__ == '__main__':  
-    app.run(debug=True)
+
+
 
 
 # Add a callback to capture changes in the conversion data store
@@ -3744,4 +3741,12 @@ def update_conversion_data(timestamp):
     # On ne fait rien ici, car nous voulons juste réagir aux changements
     # dans le store de données de conversion
     return dash.no_update
+
+# =============================================
+# Initialisation de l'Application
+# =============================================
+if __name__ == "__main__":
+    import os
+    port = int(os.environ.get("PORT", 8080))
+    app.run_server(debug=False, host="0.0.0.0", port=port)
 
