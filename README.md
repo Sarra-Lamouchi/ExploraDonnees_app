@@ -69,6 +69,6 @@ Gestion des données : Stockage en mémoire avec dcc.Store
 
 # Bloc-notes:![page de Bloc-notes](https://github.com/user-attachments/assets/85b29240-283f-44f3-87c6-0fe3a58c96e1)
 
-# Accédez dès maintenant à l'application en ligne via l'URL suivante: https://exploradonnees-app.onrender.com
+# Accédez dès maintenant à l'application en ligne via l'URL suivante: https://exploradonnees.onrender.com
 
 
