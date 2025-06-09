@@ -306,7 +306,7 @@ app.layout = html.Div([
                                         [
                                             html.I(className="fab fa-linkedin me-2"),
                                             html.A(
-                                                "LinkedIn",
+                                                "LinkedIn: https://www.linkedin.com/in/Sarra-Lamouchi/",
                                                 href=" www.linkedin.com/in/Sarra-Lamouchi",
                                                 target="_blank",
                                                 className="text-decoration-none"
