@@ -53,4 +53,22 @@ UI/UX : Dash Bootstrap Components (DBC), CSS personnalisé
 
 Gestion des données : Stockage en mémoire avec dcc.Store
 
-# 🔗 Accédez dès maintenant à l'application en ligne via l'URL suivante: https://exploradonnees-app.onrender.com
+# 📸 Aperçu de l'application
+
+# Interface principale:![Interface principale](https://github.com/user-attachments/assets/027c38aa-00dc-45d1-a55b-aa29f400410b)
+
+# Centre d'Aide:![Centre d'Aide](https://github.com/user-attachments/assets/2a22fdcf-d425-41ca-905f-4ced5d8bd55e)
+
+# Importation de données:![Importation de données](https://github.com/user-attachments/assets/c1a641b9-f116-430e-a95a-d913b0ce5893)
+
+# Nettoyage des données:![prétraitement de Données](https://github.com/user-attachments/assets/f30dfd16-602e-4cac-b6c2-d55074de1915)
+
+# Visualisation des données:![Page de visualisation](https://github.com/user-attachments/assets/3766170c-0ccb-4733-966c-ce324edee7f7)
+
+# Tests Statistiques:![page de tests statistiques](https://github.com/user-attachments/assets/19bea50e-1a9f-469f-8fb9-2f336a244ea5)
+
+# Bloc-notes:![page de Bloc-notes](https://github.com/user-attachments/assets/85b29240-283f-44f3-87c6-0fe3a58c96e1)
+
+# Accédez dès maintenant à l'application en ligne via l'URL suivante: https://exploradonnees-app.onrender.com
+
+
